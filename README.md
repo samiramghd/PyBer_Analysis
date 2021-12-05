@@ -40,5 +40,5 @@ Based on the same PyBer_fare_summary picture and the results we got in this modu
 
 2. Based on total drivers we might have some opportunities in Rural and Suburban, since we have less drivers there and if we had some more information about distances it could be helpful to realize if we need more drivers.
 
-3. By coparing total drivers and total rides we realize we have more drivers in Urban than rides which make us think there might not be enough rides for all drivers and it's better if they spead out all over.
+3. By comparing total drivers and total rides we realize we have more drivers in Urban than rides which make us think there might not be enough rides for all drivers and it's better if they spead out all over.
 
