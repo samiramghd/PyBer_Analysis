@@ -30,8 +30,7 @@ which our multiple-line chart looks like the following image
 
 ![This is an image](https://github.com/samiramghd/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
-
-
+> when we compare DataFrame and chart we can realize that total fare in Urban is higher than Suburban and Rural. Total drivers in Urban is more than total rides and for Suburban and Ruraltotal rides are more than total drivers. Average fare per driver and ride in Rural is more than other two what I'm thinking maybe it's better to spread out the drivers and fares that way it would be better and easier to choose where to work.
 
 ### Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
 
