@@ -1,4 +1,4 @@
-#### PyBer_Analysis
+# PyBer_Analysis
 PyBer, ride-sharing app analysis
 
 ### Overview of the analysis: Explain the purpose of the new analysis.
@@ -17,7 +17,7 @@ In Deliverable 1 we have to make these steps ready
 - then, Create a PyBer summary DataFrame.
 which the results are shown in this picture.
 
-![This is an image](del1.png)
+![This is an image](https://github.com/samiramghd/PyBer_Analysis/blob/main/analysis/del1.PNG)
 
 In Deliverable 2 we need to create a multiple-line graph that shows the total fares for each week by city type.
 
@@ -28,7 +28,7 @@ In Deliverable 2 we need to create a multiple-line graph that shows the total fa
 - Using the object-oriented interface method, plot the resample DataFrame
 which our multiple-line chart looks like the following image
 
-![This is an image](PyBer_fare_summary.png)
+![This is an image](https://github.com/samiramghd/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
 
 
